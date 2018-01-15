@@ -5,4 +5,4 @@
 * Язык текстовой разметки Markdown
 
 # [Зотова Полина](mailto:ztvpln.gmail.com)
-*[Telegram](ZotovaPolina)
+*[Telegram](http://t.me/ZotovaPolina)
